@@ -1,0 +1,6 @@
+{
+  "name": "PuppyPost: Meme Archaeology",
+  "description": "A Reddit-inspired gacha unboxing and meme archaeology web game featuring 4-tier chest unboxing, time-travel comment boards, relic jigsaw restoration puzzles, and bilingual slang localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
